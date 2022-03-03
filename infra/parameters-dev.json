@@ -1,0 +1,9 @@
+{
+    "Parameters": {
+        "VPCName": "VPCDefault",
+        "Region": "us-east-2",
+        "AZ1": "us-east-2a",
+        "AZ2": "us-east-2b",
+        "Owner": "tg"
+    }
+}
