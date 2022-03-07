@@ -1,6 +1,6 @@
 AWSTemplateFormatVersion: 2010-09-09
 
-Description: Cria uma VPC, duas subnets públicas com NAT Gateway e duas subnets privadas
+Description: Creates a VPC, two private subnets, two public subnets and two NAT gateways
 
 Parameters:
   

@@ -1,7 +1,7 @@
-# VPC Subnet Public Private
+# VPC, Private and Public Subnets and NAT Gateways
 
-Esse arquivo cria:
-- Uma VPC;
-- Duas Public Subnets;
-- Dois NAT Gateways;
-- Duas Private Subnets;
+This project creates:
+- VPC
+- Two private subnets;
+- Two public subnets;
+- Two NAT Gateways;
